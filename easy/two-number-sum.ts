@@ -26,3 +26,10 @@ console.log(twoNumberSum(arr, 10))
  * Time Complexity O(N)
  * Space Complexity O(N)
  */
+
+
+/**
+ * Another solution with Time Complexity O(N*log(N)) and Memory complexity of O(1) would be
+ * To sort the array first using the efficient sorting algorithms
+ * Then using the two pointer method
+ */
